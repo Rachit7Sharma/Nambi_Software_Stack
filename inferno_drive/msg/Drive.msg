@@ -1,0 +1,9 @@
+int16 left1
+int16 left2
+int16 right1
+int16 right2
+int16 pan1
+int16 tilt1
+int16 pan2
+int16 tilt2
+int16 tw
