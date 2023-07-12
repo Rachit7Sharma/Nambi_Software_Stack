@@ -1,8 +1,5 @@
 # IAI Kinect2
-
-## Maintainer
-
-- [Thiemo Wiedemeyer](https://ai.uni-bremen.de/team/thiemo_wiedemeyer) <<wiedemeyer@cs.uni-bremen.de>>, [Institute for Artificial Intelligence](http://ai.uni-bremen.de/), University of Bremen
+This is the package being used to convert the data received from Kinect V2 Sensor to point cloud and consume it to create the RTAB-MAP for Simultaneous Localization and Mapping for autonomous traversal of the prototype.
 
 ## Read this first
 
@@ -239,4 +236,8 @@ Here are some screenshots from our toolkit:
 ![depth image](http://ai.uni-bremen.de/wiki/_media/software/kinect2_depth_colored.png)
 ![point cloud](http://ai.uni-bremen.de/wiki/_media/software/kinect2_cloud.png)
 ![image viewer](http://ai.uni-bremen.de/wiki/_media/software/kinect2_viewer.png)
+
+###Credits 
+- [Thiemo Wiedemeyer](https://ai.uni-bremen.de/team/thiemo_wiedemeyer) <<wiedemeyer@cs.uni-bremen.de>>, [Institute for Artificial Intelligence](http://ai.uni-bremen.de/), University of Bremen
+
 
