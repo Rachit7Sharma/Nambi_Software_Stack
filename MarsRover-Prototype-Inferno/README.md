@@ -12,5 +12,5 @@ This rover has the capabilities to traverse rough terrain autonomously and perfo
 7. Arduino IDE
 
 ## Sceenshots and Photos
-![alt](https://github.com/phoenix6017/Nambi-Software-Stack/nambi.jpeg)
+
 
