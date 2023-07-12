@@ -237,7 +237,7 @@ Here are some screenshots from our toolkit:
 ![point cloud](http://ai.uni-bremen.de/wiki/_media/software/kinect2_cloud.png)
 ![image viewer](http://ai.uni-bremen.de/wiki/_media/software/kinect2_viewer.png)
 
-###Credits 
+### Credits
 - [Thiemo Wiedemeyer](https://ai.uni-bremen.de/team/thiemo_wiedemeyer) <<wiedemeyer@cs.uni-bremen.de>>, [Institute for Artificial Intelligence](http://ai.uni-bremen.de/), University of Bremen
 
 
